@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KennedyCruiser</string>
+    <string name="ship_image">The image of a Ship</string>
+    <string name="ship_name">The name of the ship</string>
+    <string name="ship_passenger">A ship passenger capacity</string>
+    <string name="ship_crew">A ship crew size</string>
+    <string name="ship_date">A ship inaugural date</string>
+    <string name="ship_name_detail">Ship Name: %1$s</string>
+    <string name="ship_passenger_detail">Ship Passenger Capacity: %1$s</string>
+    <string name="ship_crew_detail">Ship Crew Number: %1$s</string>
+    <string name="ship_inaugural_detail">Ship Inaugural Date: %1$s</string>
+</resources>
